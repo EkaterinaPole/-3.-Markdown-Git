@@ -1,6 +1,6 @@
-<img src="git-logo.svg" width="50%">
+<!---<img src="git-logo.svg" width="50%">--->
 
-<!---![логотип GIT](./Git-logo.svg)--->
+![логотип GIT](./Git-logo.svg)
 
 # Инструкция по работе с GIT
 
