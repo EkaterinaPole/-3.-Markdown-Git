@@ -1,0 +1,6 @@
+# ignore all css
+*.css
+
+ignore.md
+
+*.log
